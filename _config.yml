@@ -57,5 +57,5 @@ exclude:
   - node_modules
   - js
   - sass
-
-theme: jekyll-theme-minimal
+  
+remote_theme: benbalter/retlab
