@@ -58,4 +58,4 @@ exclude:
   - js
   - sass
 
-theme: null
+theme: jekyll-theme-minimal
