@@ -1,5 +1,5 @@
-title: Ben Balter
-description: Attorney, open source developer, product manager
+title: Naveen Mishra
+description: Exploring Ideaspaces
 
 lang: en-US
 branch: master
@@ -22,11 +22,11 @@ ga_username: UA-xxxxxxxx-x
 # Links to include on the contact page
 contact_links:
   - name: Twitter
-    url: https://twitter.com/BenBalter
+    url: https://twitter.com/_naveenmishra
     icon: twitter
-  - name: Facebook
-    url: https://facebook.com/BenBalter
-    icon: facebook
+  - name: Email
+    url: mailto:nm@naveenmishra.co
+    icon: email
 
 # Front matter defaults
 defaults:
